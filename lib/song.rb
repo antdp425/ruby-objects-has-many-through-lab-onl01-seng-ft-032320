@@ -10,7 +10,4 @@ class Song
    def self.all
       @@all
    end
-   def method_name
-      
-   end
 end
